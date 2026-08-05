@@ -46,7 +46,7 @@ export default function Checkout() {
       <Nav />
       <div className="checkout-wrap">
         <div className="container">
-          <h1>Lost Boy Hospitality Ventures Investment Opportunity</h1>
+          <h1>Chateau CP Hospitality Ventures Investment Opportunity</h1>
           <div className="checkout-grid">
             {/* ---------- Formulario ---------- */}
             <div className="panel">
@@ -110,8 +110,8 @@ export default function Checkout() {
                   <input type="checkbox" name="consent" required />
                   <span>
                     I consent to receiving reports, promotional emails and other commercial electronic
-                    messages from Lost Boy Hospitality Ventures or from other service providers on behalf
-                    of Lost Boy Hospitality Ventures.
+                    messages from Chateau CP Hospitality Ventures or from other service providers on behalf
+                    of Chateau CP Hospitality Ventures.
                   </span>
                 </label>
 

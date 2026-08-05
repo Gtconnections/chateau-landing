@@ -43,7 +43,7 @@ export const NAV_LINKS = [
 export const HERO = {
   title: "Back the Hospitality Group Behind Downtown Miami's Neighborhood Bar",
   lead:
-    "With 8 years of continuous operation in Florida's most competitive market, Lost Boy Dry Goods has served the Miami community with grit and purpose. Now, we're scaling this model across the $87B Florida restaurant market. By investing in Lost Boy Hospitality Ventures, you become an owner in the next locations we open.",
+    "With 8 years of continuous operation in Florida's most competitive market, Chateau CP Dry Goods has served the Miami community with grit and purpose. Now, we're scaling this model across the $87B Florida restaurant market. By investing in Chateau CP Hospitality Ventures, you become an owner in the next locations we open.",
   metrics: [
     { k: 'Share Price', v: '$2.50' },
     { k: 'Minimum Investment', v: '$1,000*' },
@@ -67,7 +67,7 @@ export const CAROUSEL_ALTS = [
 export const INVESTING = {
   title: 'New Bar Locations, A Growing Pipeline Behind Them',
   body:
-    "We're opening ownership of our expansion entity, Lost Boy Hospitality Ventures, as we scale our neighborhood concept across South Florida. That means you're accessing our first investment opportunity and biggest growth phase yet, without owning a franchise or running your own venue.",
+    "We're opening ownership of our expansion entity, Chateau CP Hospitality Ventures, as we scale our neighborhood concept across South Florida. That means you're accessing our first investment opportunity and biggest growth phase yet, without owning a franchise or running your own venue.",
   cards: [
     {
       img: CDN + '6a1da52f1ee4831e711538f1_cadillac-storefront%201.webp',
@@ -104,10 +104,10 @@ export const OPPORTUNITY = {
 export const WHY_US = {
   title: '8 Years of Growth While 300+ Competitors Closed',
   body:
-    "Our flagship Lost Boy Dry Goods location has served as Downtown Miami's staple gathering place since first opening in June 2018. We've built a portfolio that survived and thrived through the pandemic, historic inflation, and the most competitive market in Miami's history. Named Miami New Times Best New Bar upon opening and inducted into the Star Chefs Rising Stars class of 2021, the only bar owners in a field of top restaurateurs. These four locations prove the model works.",
+    "Our flagship Chateau CP Dry Goods location has served as Downtown Miami's staple gathering place since first opening in June 2018. We've built a portfolio that survived and thrived through the pandemic, historic inflation, and the most competitive market in Miami's history. Named Miami New Times Best New Bar upon opening and inducted into the Star Chefs Rising Stars class of 2021, the only bar owners in a field of top restaurateurs. These four locations prove the model works.",
   locations: [
     {
-      name: 'Lost Boy Dry Goods',
+      name: 'Chateau CP Dry Goods',
       year: '2018',
       meta: 'Downtown Miami · 2,000 sf',
       desc:
@@ -140,13 +140,13 @@ export const WHY_US = {
 export const BUSINESS_MODEL = {
   title: 'The Neighborhood Bar That Works From Open to Close',
   body:
-    "Lost Boy Dry Goods is a neighborhood bar serving draft beer, classic cocktails, and pizza in a room inspired by a love of English pubs, Western saloons, and old captain's taverns. A community-driven bar model built for high margins and long-term scalability. We've built multiple revenue engines across the full day, ideal for both the solo bar stool pint and large group celebrations.",
+    "Chateau CP Dry Goods is a neighborhood bar serving draft beer, classic cocktails, and pizza in a room inspired by a love of English pubs, Western saloons, and old captain's taverns. A community-driven bar model built for high margins and long-term scalability. We've built multiple revenue engines across the full day, ideal for both the solo bar stool pint and large group celebrations.",
 };
 
 export const ROADMAP = {
   title: 'Scaling What Works Across South Florida',
   body:
-    'Our expansion replicates the Lost Boy Dry Goods model in new neighborhoods across South Florida. The quality approach to drinks, service, and atmosphere remains the same. What changes is how each location reflects its specific community.',
+    'Our expansion replicates the Chateau CP Dry Goods model in new neighborhoods across South Florida. The quality approach to drinks, service, and atmosphere remains the same. What changes is how each location reflects its specific community.',
   phases: [
     { yr: '2026', title: 'Site Selection', desc: 'Capital Raise. Due diligence for new target locations.' },
     {
@@ -180,10 +180,10 @@ export const TIERS = [
     bonus: '0%',
     perks: [
       {
-        title: "Lost Boy Owner's Club — Standard Membership",
+        title: "Chateau CP Owner's Club — Standard Membership",
         bullets: [
           'Digital membership card',
-          'Access to all Lost Boy & Co. properties (current and future)',
+          'Access to all Chateau CP & Co. properties (current and future)',
           'Member designation in POS system',
           'Welcome drink on investment anniversary (annual)',
           'Dedicated Standard Owner hotline',
@@ -200,7 +200,7 @@ export const TIERS = [
     bonus: '2.5%',
     perks: [
       {
-        title: "Lost Boy Owner's Club — VIP Membership",
+        title: "Chateau CP Owner's Club — VIP Membership",
         bullets: [
           'Digital VIP membership card + VIP designation in POS',
           'Priority reservations',
@@ -227,7 +227,7 @@ export const TIERS = [
         ],
       },
       {
-        title: 'Lost Boy Investor Hat',
+        title: 'Chateau CP Investor Hat',
         bullets: [
           'Limited edition cap customized with investor’s last name',
           'Unavailable for public purchase · Domestic shipping covered',
@@ -245,7 +245,7 @@ export const TIERS = [
       {
         title: '$12 Cocktails For Life',
         bullets: [
-          '$12 cocktails for life at all Lost Boy & Co. properties (current and future)',
+          '$12 cocktails for life at all Chateau CP & Co. properties (current and future)',
           'Starts 60 days after acceptance',
         ],
       },
@@ -267,7 +267,7 @@ export const TIERS = [
         ],
       },
       {
-        title: "Lost Boy Special Edition Blanton's Bottle",
+        title: "Chateau CP Special Edition Blanton's Bottle",
         bullets: [
           'One private-label single barrel bottle, unique each year',
           'Received at the Annual Whiskey Experience',
@@ -284,7 +284,7 @@ export const TIERS = [
     perks: [
       {
         title: 'Happy Hour For Life',
-        bullets: ['Happy hour pricing for life at all Lost Boy & Co. properties'],
+        bullets: ['Happy hour pricing for life at all Chateau CP & Co. properties'],
       },
       {
         title: 'Private Event Buyout Room Fee Waived',
@@ -309,8 +309,8 @@ export const TIERS = [
       {
         title: 'Beer Named After Investor On Tap',
         bullets: [
-          'Lost Boy micro-brew named after the investor, on tap and menu',
-          'At any one Lost Boy Dry Goods location · Three consecutive years',
+          'Chateau CP micro-brew named after the investor, on tap and menu',
+          'At any one Chateau CP Dry Goods location · Three consecutive years',
           'Investor participates in the full beer selection process',
         ],
       },
@@ -326,7 +326,7 @@ export const TIERS = [
 ];
 
 export const EMPLOYEE_PERK = {
-  title: 'Lost Boy & Co. Employees — All Campaign Levels',
+  title: 'Chateau CP & Co. Employees — All Campaign Levels',
   bonus: '+10%',
   note: 'Additional Bonus Shares at Any Level',
 };
@@ -343,13 +343,13 @@ export const TEAM = {
       role: 'Co-Founder & CEO',
       name: 'Randy Alonso',
       bio:
-        'Randy has operated on Flagler Street for over two decades, first managing La Época, his family’s three-generation department store originally founded in Havana in 1885. A Civil & Architectural Engineering graduate from Duke University, he brings a design-driven approach to every venue with a focus on historic preservation and placemaking. Randy launched Lost Boy Dry Goods at 157 E Flagler Street in 2014, partnering with Chris Hudnall in 2018 to pivot into hospitality and build Lost Boy & Co. He leads strategy, design, and project management across the portfolio.',
+        'Randy has operated on Flagler Street for over two decades, first managing La Época, his family’s three-generation department store originally founded in Havana in 1885. A Civil & Architectural Engineering graduate from Duke University, he brings a design-driven approach to every venue with a focus on historic preservation and placemaking. Randy launched Chateau CP Dry Goods at 157 E Flagler Street in 2014, partnering with Chris Hudnall in 2018 to pivot into hospitality and build Chateau CP & Co. He leads strategy, design, and project management across the portfolio.',
     },
     {
       role: 'Co-Founder & COO',
       name: 'Chris Hudnall',
       bio:
-        'Chris has 20+ years in hospitality spanning operations, concept development, and beverage program leadership. His career includes Mondrian South Beach and a decade at Soho House, where he opened Soho Beach House in 2010 and rose to North American Director of Bars by 2014, overseeing seven private clubs and five public restaurants. He partnered with Randy in 2018 to launch Lost Boy Dry Goods and has led operations and concept execution across every location since. He leads operational execution, concept development, strategic partnerships, and brand experience for the group.',
+        'Chris has 20+ years in hospitality spanning operations, concept development, and beverage program leadership. His career includes Mondrian South Beach and a decade at Soho House, where he opened Soho Beach House in 2010 and rose to North American Director of Bars by 2014, overseeing seven private clubs and five public restaurants. He partnered with Randy in 2018 to launch Chateau CP Dry Goods and has led operations and concept execution across every location since. He leads operational execution, concept development, strategic partnerships, and brand experience for the group.',
     },
   ],
 };
@@ -361,20 +361,20 @@ export const FAQS = [
   { q: 'What are the tax implications of an equity crowdfunding investment?', a: 'This is not tax advice. Consult your accountant or tax advisor before investing.' },
   { q: 'Who can invest in a Regulation CF Offering?', a: 'Any individual over 18 years old.' },
   { q: 'What do I need to know about early-stage investing? Are these investments risky?', a: 'A high risk is present. Company failure means a total loss of ownership value. You may have limited voting power due to dilution. Exit typically requires 5–7 years via acquisition or IPO. Nothing is guaranteed.' },
-  { q: 'When will I get my investment back?', a: 'Common Stock of Lost Boy Hospitality Ventures Inc. is not publicly traded and cannot be easily traded or sold. Returns would occur via (a) a company acquisition or (b) an IPO — both long-term exits (5–10+ years). There is no guarantee of a return.' },
+  { q: 'When will I get my investment back?', a: 'Common Stock of Chateau CP Hospitality Ventures Inc. is not publicly traded and cannot be easily traded or sold. Returns would occur via (a) a company acquisition or (b) an IPO — both long-term exits (5–10+ years). There is no guarantee of a return.' },
   { q: 'Can I sell my shares?', a: 'There is a one-year lockup before shares can be sold under certain conditions.' },
   { q: 'Exceptions to selling during the one-year lockup period?', a: 'In the case of death, divorce, or similar circumstance: transfer to the company, an accredited investor, or a family member (child, stepchild, grandchild, parent, stepparent, grandparent, spouse or equivalent, sibling, in-laws, including adoptive relationships).' },
   { q: 'What happens if a company does not reach their funding target?', a: 'All funds are returned to investors after the offering closes.' },
   { q: 'How can I learn more about a company’s offering?', a: 'All disclosure information is on the offering pages for the Regulation Crowdfunding offering.' },
   { q: 'What if I change my mind about investing?', a: 'You may cancel any time until 48 hours prior to closing. Funds in escrow are returned upon cancellation. Email: info@dealmakersecurities.com.' },
   { q: 'How do I keep up with how the company is doing?', a: 'The company files an annual report plus certified financials with the SEC and on its website (at least 120 days after fiscal year-end). Reporting may end under certain exceptions; continuous financial information is not guaranteed.' },
-  { q: 'What relationship does the company have with DealMaker Securities?', a: 'After the offering ends, the company may continue the relationship for future offerings. DealMaker affiliates may provide ongoing services. Continuation is not guaranteed.' },
+  { q: 'What relationship does the company have with GT Connections?', a: 'After the offering ends, the company may continue the relationship for future offerings. GT Connections affiliates may provide ongoing services. Continuation is not guaranteed.' },
   { q: 'What is the company’s implied pre-money valuation?', a: 'Pre-Offering valuation: $40,000,000.00 (total shares outstanding multiplied by price per share). Pre-money is the value before new funds are added in this offering.' },
 ];
 
 export const FOOTER = {
   broker:
-    'DealMaker Securities LLC, a registered broker-dealer, and member of FINRA | SIPC, located at 30 East 23rd Street, 2nd Floor, NY, NY 10010, is the Intermediary for this offering and is not an affiliate of or connected with the Issuer. Please check our background on FINRA’s BrokerCheck. DealMaker Securities LLC does not make investment recommendations. DealMaker Securities LLC is NOT placing or selling these securities on behalf of the Issuer. DealMaker Securities LLC is NOT soliciting this investment or making any recommendations by collecting, reviewing, and processing an Investor’s documentation for this investment.',
+    'GT Connections LLC, a registered broker-dealer, and member of FINRA | SIPC, located at 30 East 23rd Street, 2nd Floor, NY, NY 10010, is the Intermediary for this offering and is not an affiliate of or connected with the Issuer. Please check our background on FINRA’s BrokerCheck. GT Connections LLC does not make investment recommendations. GT Connections LLC is NOT placing or selling these securities on behalf of the Issuer. GT Connections LLC is NOT soliciting this investment or making any recommendations by collecting, reviewing, and processing an Investor’s documentation for this investment.',
   forward:
     'This website may contain forward-looking statements and information relating to, among other things, the company, its business plan and strategy, and its industry. These forward-looking statements are based on the beliefs of, assumptions made by, and information currently available to the company’s management. Investors are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date on which they are made.',
   risk:

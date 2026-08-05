@@ -29,7 +29,7 @@ export function Nav() {
   return (
     <nav className="nav">
       <div className="container">
-        <a href="/" aria-label="Lost Boy"><Brand light /></a>
+        <a href="/" aria-label="Chateau CP"><Brand light /></a>
         <div className="navlinks">
           {NAV_LINKS.map((l) => (
             <a key={l.href} href={l.href}>{l.label}</a>
@@ -66,7 +66,7 @@ function Hero() {
           </div>
         </div>
         <div className="hero-media">
-          <Media src={IMAGES.hero} alt="Interior de Lost Boy Dry Goods · foto principal" height={420} />
+          <Media src={IMAGES.hero} alt="Interior de Chateau CP Dry Goods · foto principal" height={420} />
         </div>
       </div>
     </header>
@@ -130,7 +130,7 @@ function Opportunity() {
     <section className="section" id="opportunity">
       <div className="container opp-grid">
         <div className="opp-media">
-          <Media src={IMAGES.opportunity} alt="Vista cenital del interior de Lost Boy Dry Goods" height={360} />
+          <Media src={IMAGES.opportunity} alt="Vista cenital del interior de Chateau CP Dry Goods" height={360} />
         </div>
         <div>
           <h2>{OPPORTUNITY.title}</h2>
@@ -185,7 +185,7 @@ function BusinessModel() {
           <p>{BUSINESS_MODEL.body}</p>
         </div>
         <div className="opp-media">
-          <Media src={IMAGES.businessModel} alt="Esquina del bar Lost Boy con taburetes de cuero y estantería arqueada" height={360} />
+          <Media src={IMAGES.businessModel} alt="Esquina del bar Chateau CP con taburetes de cuero y estantería arqueada" height={360} />
         </div>
       </div>
     </section>
@@ -322,7 +322,7 @@ function Footer() {
         </div>
         <div className="copyright">
           <span>{FOOTER.copyright}</span>
-          <span><a href="#">Privacy Policy</a> · Powered by DealMaker</span>
+          <span><a href="#">Privacy Policy</a> · Powered by GT Connections</span>
         </div>
       </div>
     </footer>

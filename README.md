@@ -1,4 +1,4 @@
-# Lost Boy Hospitality Ventures — Réplica (Next.js)
+# Chateau CP Hospitality Ventures — Réplica (Next.js)
 
 Réplica fiel de `invest.wearealllost.com` construida en **Next.js (App Router)**.
 Incluye la landing completa y una página de **checkout** con formulario maquetado,
@@ -45,7 +45,7 @@ emails/
    ```
    SENDGRID_API_KEY=SG.xxxxx
    SENDGRID_FROM_EMAIL=invest@tudominio.com
-   SENDGRID_FROM_NAME=Lost Boy Hospitality Ventures
+   SENDGRID_FROM_NAME=Chateau CP Hospitality Ventures
    SENDGRID_NOTIFY_EMAIL=equipo@tudominio.com   # opcional
    ```
 El endpoint usa la **API REST de SendGrid** vía `fetch` (sin SDK). Al enviar el

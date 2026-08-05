@@ -4,11 +4,11 @@ import HashScroll from '@/components/HashScroll';
 export const metadata = {
   title: 'Château — Cupon Tours',
   description:
-    'Invest in Lost Boy Hospitality Ventures as we expand our proven neighborhood bar concept across South Florida.',
+    'Invest in Chateau CP Hospitality Ventures as we expand our proven neighborhood bar concept across South Florida.',
   openGraph: {
     title: 'Château — Cupon Tours',
     description:
-      'Invest in Lost Boy Hospitality Ventures as we expand our proven neighborhood bar concept across South Florida.',
+      'Invest in Chateau CP Hospitality Ventures as we expand our proven neighborhood bar concept across South Florida.',
   },
 };
 
