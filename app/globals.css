@@ -65,7 +65,7 @@ h1, h2, h3, h4 {
   margin: 0 0 .5em;
   line-height: 1.08;
 }
-h1 { font-size: clamp(2.4rem, 5vw, 4rem); text-transform: none; letter-spacing: -0.5px; }
+h1 { font-size: clamp(2.2rem, 4.6vw, 3.8rem); text-transform: none; letter-spacing: -0.5px; }
 h2 { font-size: clamp(1.9rem, 3.4vw, 2.9rem); letter-spacing: -0.5px; text-transform: none; }
 h3 { font-size: 1.2rem; }
 
@@ -97,9 +97,13 @@ img { max-width: 100%; display: block; }
   transition: transform .12s ease, opacity .12s ease, background .12s ease;
 }
 .btn:hover { transform: translateY(-1px); }
-.btn-primary { background: var(--maroon); color: var(--white); }
+/* Botones: fondo tinta, texto crema; al pasar el cursor, rojo Château */
+.btn-primary { background: #181715; color: #f2f1ef; border-color: rgba(242,241,239,.4); }
+.btn-primary:hover { background: #cc0402; color: #f2f1ef; border-color: #cc0402; }
 .btn-outline { background: transparent; color: var(--green-dark); border-color: var(--green-dark); }
-.btn-light { background: var(--cream); color: var(--green-dark); border-color: var(--cream-2); }
+.btn-outline:hover { background: #cc0402; color: #f2f1ef; border-color: #cc0402; }
+.btn-light { background: #f2f1ef; color: #181715; border-color: var(--cream-2); }
+.btn-light:hover { background: #cc0402; color: #f2f1ef; border-color: #cc0402; }
 .btn-block { width: 100%; }
 
 /* ---- Placeholder de imagen (para cuando cargues las imágenes finales) ---- */
